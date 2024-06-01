@@ -1,4 +1,4 @@
-module wakelist
+module github.com/lkrimphove/wakelist
 
 go 1.22.1
 
@@ -38,6 +38,7 @@ require (
 	github.com/muesli/reflow v0.3.0 // indirect
 	github.com/muesli/termenv v0.15.2 // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
+	github.com/sabhiram/go-wol v0.0.0-20211224004021-c83b0c2f887d
 	github.com/sahilm/fuzzy v0.1.1-0.20230530133925-c48e322e2a8f // indirect
 	github.com/stretchr/testify v1.9.0
 	github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e // indirect
